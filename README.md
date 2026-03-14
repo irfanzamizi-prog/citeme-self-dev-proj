@@ -130,7 +130,7 @@ citeme/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Irfan Muhaimin**
 - GitHub: [@irfanzamizi-prog](https://github.com/irfanzamizi-prog)

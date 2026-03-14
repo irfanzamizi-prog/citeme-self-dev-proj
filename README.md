@@ -130,6 +130,3 @@ citeme/
 
 ---
 
-## License
-
-MIT

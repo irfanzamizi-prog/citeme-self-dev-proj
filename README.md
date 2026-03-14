@@ -130,3 +130,8 @@ citeme/
 
 ---
 
+## 👨‍💻 Author
+
+**Irfan Muhaimin**
+- GitHub: [@irfanzamizi-prog](https://github.com/irfanzamizi-prog)
+- Diploma in Computer Science — Kolej Profesional MARA Indera Mahkota
